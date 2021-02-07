@@ -3,16 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FunctionChain", "FunctionChain", "{337675E6-25BE-4781-A9A8-DC1F738F093D}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FanOutIn", "FanOutIn", "{346021CB-8A00-4694-BA21-568823FD54A4}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AsyncHttp", "AsyncHttp", "{6FC5A106-59F5-46F3-A9D1-372C25B4D9D7}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Monitor", "Monitor", "{15DE189B-FBB1-4796-AE2C-CB4B0A0B9059}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Requests", "Requests", "{A4C3B3BD-F487-4090-A23B-F4AF19F2C712}"
-EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
